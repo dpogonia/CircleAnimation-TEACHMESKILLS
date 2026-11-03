@@ -19,8 +19,8 @@ UIKit, Storyboard.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/CircleAnimation-TeachMeSkills.git
-cd CircleAnimation-TeachMeSkills
+git clone https://github.com/dpogonia/CircleAnimation-TEACHMESKILLS.git
+cd CircleAnimation-TEACHMESKILLS
 open TMSkills.xcodeproj
 ```
 
